@@ -50,3 +50,34 @@ Technologies Used
 - SQL (optional)
 - Jupyter Notebooks
 - SHAP (Model Explainability)
+
+data/ → Sample datasets
+notebooks/ → Exploratory notebooks
+src/ → Core analytics and ML code
+app/ → Streamlit dashboard
+
+How to Run the Dashboard
+
+Install dependencies:
+
+Run the Streamlit app:
+
+
+Example KPIs Included
+- PM Compliance %
+- Avg Downtime (hrs)
+- MTTR (hours)
+- Total Work Orders
+- Failure Probability %
+
+
+Future Enhancements
+- FHIR integration for health system compatibility  
+- Database integration (PostgreSQL)  
+- Automated PDF maintenance reports  
+- API for hospital CMMS system  
+
+Author
+George Erasto Maleko  
+Biomedical Engineer | Health Informatics  
+
