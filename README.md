@@ -11,21 +11,21 @@ This dashboard analyzes:
 This project combines Biomedical Engineering knowledge with modern Health 
 Informatics and analytics skills (Python, SQL, ML, Streamlit).
 
-🔧 Features
+Features
 
- ✔️ Data Preprocessing
+Data Preprocessing
 - Cleaning of maintenance logs  
 - Categorization of device types  
 - Time-series formatting for PM scheduling  
 
-✔️ Analytics & KPIs
+Analytics & KPIs
 - Downtime per device  
 - Mean Time Between Failure (MTBF)  
 - Mean Time To Repair (MTTR)  
 - Preventive maintenance compliance %  
 - Work order aging report  
 
-✔️ Machine Learning Model
+Machine Learning Model
 A predictive model using:
 - Random Forest  
 - Logistic Regression  
@@ -34,7 +34,7 @@ A predictive model using:
 Predicts:
 - High-risk devices likely to fail in the next 30 days.
 
-✔️ Interactive Dashboard (Streamlit)
+Interactive Dashboard (Streamlit)
 Visualizes:
 - Failure trends  
 - Maintenance KPIs  
